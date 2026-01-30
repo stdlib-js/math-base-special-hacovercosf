@@ -58,7 +58,7 @@ The half-value [coversed cosine][coversed-cosine] is defined as
 ## Usage
 
 ```javascript
-import hacovercosf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-hacovercosf@esm/index.mjs';
+import hacovercosf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-hacovercosf@v0.1.0-esm/index.mjs';
 ```
 
 #### hacovercosf( x )
@@ -95,7 +95,7 @@ v = hacovercosf( -3.141592653589793/6.0 );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
 import TWO_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-two-pi@esm/index.mjs';
-import hacovercosf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-hacovercosf@esm/index.mjs';
+import hacovercosf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-hacovercosf@v0.1.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float32'
